@@ -1,0 +1,627 @@
+fileFormatVersion: 2
+guid: 97adcd958ff521340933118c7899161c
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: cell
+    100002: FixedWindow001
+    100004: FixedWindow002
+    100006: FixedWindow003
+    100008: floor
+    100010: plinth
+    100012: //RootNode
+    100014: walls
+    100016: Room
+    100018: mesh
+    100020: FixedWindow004
+    100022: 002
+    100024: 1
+    100026: Arch35_003_04
+    100028: Arch35_003_05
+    100030: Arch35_003_06
+    100032: Back Support
+    100034: books
+    100036: Box007
+    100038: Box008
+    100040: Box009
+    100042: Box010
+    100044: carpet
+    100046: chair001
+    100048: chrome_vase
+    100050: chrome_vase 1
+    100052: copper_vase
+    100054: Cushion
+    100056: Cushion_MeshPart0
+    100058: Cushion_MeshPart1
+    100060: Cushion_MeshPart2
+    100062: Cylinder025
+    100064: glass
+    100066: green
+    100068: green 1
+    100070: green 2
+    100072: Group001
+    100074: Group003
+    100076: interior
+    100078: lamp
+    100080: Line015
+    100082: Line016
+    100084: Line017
+    100086: Line018
+    100088: Line019
+    100090: Line020
+    100092: Line021
+    100094: LPillow
+    100096: Object001
+    100098: Object975
+    100100: Object976
+    100102: Object977
+    100104: Object978
+    100106: Particle View 001
+    100108: Particle View 001 1
+    100110: Particle View 001 2
+    100112: Particle View 001 3
+    100114: Particle View 001 4
+    100116: Particle View 001 5
+    100118: Particle View 002
+    100120: Particle View 002 1
+    100122: Particle View 003
+    100124: Particle View 003 1
+    100126: Particle View 01
+    100128: Particle View 01 1
+    100130: picture
+    100132: picture 1
+    100134: Pillow 1
+    100136: Pillow2
+    100138: Pillow3
+    100140: Plane001
+    100142: Plane002
+    100144: Plane003
+    100146: Plane004
+    100148: Plane098
+    100150: Plane099
+    100152: Rectangle001
+    100154: Rectangle002
+    100156: Rectangle003
+    100158: Rectangle004
+    100160: Rectangle005
+    100162: Rectangle006
+    100164: Rectangle007
+    100166: Rectangle008
+    100168: Rectangle025
+    100170: Rectangle026
+    100172: Rectangle027
+    100174: Rectangle028
+    100176: Rectangle029
+    100178: Rpillow
+    100180: screen
+    100182: Shape009
+    100184: Shape010
+    100186: Shape011
+    100188: Shape012
+    100190: sofa
+    100192: Sofa Support
+    100194: Sphere001
+    100196: table
+    100198: table 1
+    100200: table leg
+    100202: toy
+    100204: tv
+    100206: tv lg001
+    100208: Under Cushion
+    100210: Wooden Dec
+    100212: xiadele_Object067
+    100214: xiadele_Object068
+    100216: "xiadele_\u5C0F\u6728\u67B6"
+    400000: cell
+    400002: FixedWindow001
+    400004: FixedWindow002
+    400006: FixedWindow003
+    400008: floor
+    400010: plinth
+    400012: //RootNode
+    400014: walls
+    400016: Room
+    400018: mesh
+    400020: FixedWindow004
+    400022: 002
+    400024: 1
+    400026: Arch35_003_04
+    400028: Arch35_003_05
+    400030: Arch35_003_06
+    400032: Back Support
+    400034: books
+    400036: Box007
+    400038: Box008
+    400040: Box009
+    400042: Box010
+    400044: carpet
+    400046: chair001
+    400048: chrome_vase
+    400050: chrome_vase 1
+    400052: copper_vase
+    400054: Cushion
+    400056: Cushion_MeshPart0
+    400058: Cushion_MeshPart1
+    400060: Cushion_MeshPart2
+    400062: Cylinder025
+    400064: glass
+    400066: green
+    400068: green 1
+    400070: green 2
+    400072: Group001
+    400074: Group003
+    400076: interior
+    400078: lamp
+    400080: Line015
+    400082: Line016
+    400084: Line017
+    400086: Line018
+    400088: Line019
+    400090: Line020
+    400092: Line021
+    400094: LPillow
+    400096: Object001
+    400098: Object975
+    400100: Object976
+    400102: Object977
+    400104: Object978
+    400106: Particle View 001
+    400108: Particle View 001 1
+    400110: Particle View 001 2
+    400112: Particle View 001 3
+    400114: Particle View 001 4
+    400116: Particle View 001 5
+    400118: Particle View 002
+    400120: Particle View 002 1
+    400122: Particle View 003
+    400124: Particle View 003 1
+    400126: Particle View 01
+    400128: Particle View 01 1
+    400130: picture
+    400132: picture 1
+    400134: Pillow 1
+    400136: Pillow2
+    400138: Pillow3
+    400140: Plane001
+    400142: Plane002
+    400144: Plane003
+    400146: Plane004
+    400148: Plane098
+    400150: Plane099
+    400152: Rectangle001
+    400154: Rectangle002
+    400156: Rectangle003
+    400158: Rectangle004
+    400160: Rectangle005
+    400162: Rectangle006
+    400164: Rectangle007
+    400166: Rectangle008
+    400168: Rectangle025
+    400170: Rectangle026
+    400172: Rectangle027
+    400174: Rectangle028
+    400176: Rectangle029
+    400178: Rpillow
+    400180: screen
+    400182: Shape009
+    400184: Shape010
+    400186: Shape011
+    400188: Shape012
+    400190: sofa
+    400192: Sofa Support
+    400194: Sphere001
+    400196: table
+    400198: table 1
+    400200: table leg
+    400202: toy
+    400204: tv
+    400206: tv lg001
+    400208: Under Cushion
+    400210: Wooden Dec
+    400212: xiadele_Object067
+    400214: xiadele_Object068
+    400216: "xiadele_\u5C0F\u6728\u67B6"
+    2300000: cell
+    2300002: FixedWindow001
+    2300004: FixedWindow002
+    2300006: FixedWindow003
+    2300008: floor
+    2300010: plinth
+    2300012: walls
+    2300014: FixedWindow004
+    2300016: 002
+    2300018: 1
+    2300020: Arch35_003_04
+    2300022: Arch35_003_05
+    2300024: Arch35_003_06
+    2300026: Back Support
+    2300028: Box007
+    2300030: Box008
+    2300032: Box009
+    2300034: Box010
+    2300036: carpet
+    2300038: chrome_vase
+    2300040: chrome_vase 1
+    2300042: copper_vase
+    2300044: Cushion_MeshPart0
+    2300046: Cushion_MeshPart1
+    2300048: Cushion_MeshPart2
+    2300050: Cylinder025
+    2300052: glass
+    2300054: Line015
+    2300056: Line016
+    2300058: Line017
+    2300060: Line018
+    2300062: Line019
+    2300064: Line020
+    2300066: LPillow
+    2300068: Object001
+    2300070: Object975
+    2300072: Object976
+    2300074: Object977
+    2300076: Object978
+    2300078: Plane001
+    2300080: Plane002
+    2300082: Plane003
+    2300084: Plane004
+    2300086: Plane098
+    2300088: Plane099
+    2300090: Rectangle001
+    2300092: Rectangle002
+    2300094: Rectangle003
+    2300096: Rectangle004
+    2300098: Rectangle005
+    2300100: Rectangle006
+    2300102: Rectangle007
+    2300104: Rectangle008
+    2300106: Rectangle025
+    2300108: Rectangle026
+    2300110: Rectangle027
+    2300112: Rectangle028
+    2300114: Rectangle029
+    2300116: Rpillow
+    2300118: screen
+    2300120: Shape009
+    2300122: Shape010
+    2300124: Shape011
+    2300126: Shape012
+    2300128: Sofa Support
+    2300130: Sphere001
+    2300132: table leg
+    2300134: tv lg001
+    2300136: Under Cushion
+    2300138: Wooden Dec
+    2300140: xiadele_Object067
+    2300142: xiadele_Object068
+    2300144: "xiadele_\u5C0F\u6728\u67B6"
+    3300000: cell
+    3300002: FixedWindow001
+    3300004: FixedWindow002
+    3300006: FixedWindow003
+    3300008: floor
+    3300010: plinth
+    3300012: walls
+    3300014: FixedWindow004
+    3300016: 002
+    3300018: 1
+    3300020: Arch35_003_04
+    3300022: Arch35_003_05
+    3300024: Arch35_003_06
+    3300026: Back Support
+    3300028: Box007
+    3300030: Box008
+    3300032: Box009
+    3300034: Box010
+    3300036: carpet
+    3300038: chrome_vase
+    3300040: chrome_vase 1
+    3300042: copper_vase
+    3300044: Cushion_MeshPart0
+    3300046: Cushion_MeshPart1
+    3300048: Cushion_MeshPart2
+    3300050: Cylinder025
+    3300052: glass
+    3300054: Line015
+    3300056: Line016
+    3300058: Line017
+    3300060: Line018
+    3300062: Line019
+    3300064: Line020
+    3300066: LPillow
+    3300068: Object001
+    3300070: Object975
+    3300072: Object976
+    3300074: Object977
+    3300076: Object978
+    3300078: Plane001
+    3300080: Plane002
+    3300082: Plane003
+    3300084: Plane004
+    3300086: Plane098
+    3300088: Plane099
+    3300090: Rectangle001
+    3300092: Rectangle002
+    3300094: Rectangle003
+    3300096: Rectangle004
+    3300098: Rectangle005
+    3300100: Rectangle006
+    3300102: Rectangle007
+    3300104: Rectangle008
+    3300106: Rectangle025
+    3300108: Rectangle026
+    3300110: Rectangle027
+    3300112: Rectangle028
+    3300114: Rectangle029
+    3300116: Rpillow
+    3300118: screen
+    3300120: Shape009
+    3300122: Shape010
+    3300124: Shape011
+    3300126: Shape012
+    3300128: Sofa Support
+    3300130: Sphere001
+    3300132: table leg
+    3300134: tv lg001
+    3300136: Under Cushion
+    3300138: Wooden Dec
+    3300140: xiadele_Object067
+    3300142: xiadele_Object068
+    3300144: "xiadele_\u5C0F\u6728\u67B6"
+    4300000: FixedWindow001
+    4300002: FixedWindow002
+    4300004: FixedWindow003
+    4300006: cell
+    4300008: walls
+    4300010: floor
+    4300012: plinth
+    4300014: FixedWindow004
+    4300016: carpet
+    4300018: Arch35_003_04
+    4300020: Arch35_003_06
+    4300022: Arch35_003_05
+    4300024: tv lg001
+    4300026: screen
+    4300028: "xiadele_\u5C0F\u6728\u67B6"
+    4300030: Box008
+    4300032: Box007
+    4300034: Box010
+    4300036: Box009
+    4300038: Object976
+    4300040: chrome_vase
+    4300042: Object977
+    4300044: copper_vase
+    4300046: Object975
+    4300048: chrome_vase
+    4300050: Plane001
+    4300052: Wooden Dec
+    4300054: Under Cushion
+    4300056: LPillow
+    4300058: Cushion_MeshPart0
+    4300060: Cushion_MeshPart1
+    4300062: Cushion_MeshPart2
+    4300064: Back Support
+    4300066: Sofa Support
+    4300068: Plane003
+    4300070: Object001
+    4300072: 1
+    4300074: 002
+    4300076: Plane002
+    4300078: Plane004
+    4300080: Rpillow
+    4300082: Cylinder025
+    4300084: Sphere001
+    4300086: xiadele_Object068
+    4300088: xiadele_Object067
+    4300090: table leg
+    4300092: glass
+    4300094: Rectangle025
+    4300096: Rectangle008
+    4300098: Rectangle007
+    4300100: Rectangle003
+    4300102: Rectangle001
+    4300104: Rectangle006
+    4300106: Rectangle005
+    4300108: Rectangle004
+    4300110: Rectangle002
+    4300112: Line015
+    4300114: Shape009
+    4300116: Shape010
+    4300118: Line016
+    4300120: Rectangle026
+    4300122: Rectangle027
+    4300124: Line017
+    4300126: Line018
+    4300128: Shape011
+    4300130: Line019
+    4300132: Line020
+    4300134: Shape012
+    4300136: Rectangle028
+    4300138: Rectangle029
+    4300140: Plane098
+    4300142: Object978
+    4300144: Plane099
+    6400000: cell
+    6400002: FixedWindow001
+    6400004: FixedWindow002
+    6400006: FixedWindow003
+    6400008: floor
+    6400010: plinth
+    6400012: walls
+    6400014: FixedWindow004
+    6400016: 002
+    6400018: 1
+    6400020: Arch35_003_04
+    6400022: Arch35_003_05
+    6400024: Arch35_003_06
+    6400026: Back Support
+    6400028: Box007
+    6400030: Box008
+    6400032: Box009
+    6400034: Box010
+    6400036: carpet
+    6400038: chrome_vase
+    6400040: chrome_vase 1
+    6400042: copper_vase
+    6400044: Cushion_MeshPart0
+    6400046: Cushion_MeshPart1
+    6400048: Cushion_MeshPart2
+    6400050: Cylinder025
+    6400052: glass
+    6400054: Line015
+    6400056: Line016
+    6400058: Line017
+    6400060: Line018
+    6400062: Line019
+    6400064: Line020
+    6400066: LPillow
+    6400068: Object001
+    6400070: Object975
+    6400072: Object976
+    6400074: Object977
+    6400076: Object978
+    6400078: Plane001
+    6400080: Plane002
+    6400082: Plane003
+    6400084: Plane004
+    6400086: Plane098
+    6400088: Plane099
+    6400090: Rectangle001
+    6400092: Rectangle002
+    6400094: Rectangle003
+    6400096: Rectangle004
+    6400098: Rectangle005
+    6400100: Rectangle006
+    6400102: Rectangle007
+    6400104: Rectangle008
+    6400106: Rectangle025
+    6400108: Rectangle026
+    6400110: Rectangle027
+    6400112: Rectangle028
+    6400114: Rectangle029
+    6400116: Rpillow
+    6400118: screen
+    6400120: Shape009
+    6400122: Shape010
+    6400124: Shape011
+    6400126: Shape012
+    6400128: Sofa Support
+    6400130: Sphere001
+    6400132: table leg
+    6400134: tv lg001
+    6400136: Under Cushion
+    6400138: Wooden Dec
+    6400140: xiadele_Object067
+    6400142: xiadele_Object068
+    6400144: "xiadele_\u5C0F\u6728\u67B6"
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cell
+    second: {fileID: 2100000, guid: 8e305d11d33fc9448af7864d29dae48c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor
+    second: {fileID: 2100000, guid: a05fb2ccf5144d64d8ad8af79044b0c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plinth
+    second: {fileID: 2100000, guid: 96c115b7b9b77eb448ca6e1d539629b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: walls
+    second: {fileID: 2100000, guid: dfe2142112e23504389b69bf96dbf0a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: window_glass
+    second: {fileID: 2100000, guid: f14c3da8eb1c2d04e8bb0a7a9fb245a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: window_wood
+    second: {fileID: 2100000, guid: a22ba767e59589b42bef5160649f99f3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 07f84d5b03510ff4aa73018ca8eeec97
+timeCreated: 1525342246
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 002
+    100002: 1
+    100004: Back Support
+    100006: Cushion
+    100008: Cushion_MeshPart0
+    100010: Cushion_MeshPart1
+    100012: Cushion_MeshPart2
+    100014: LPillow
+    100016: Object001
+    100018: Pillow 1
+    100020: Pillow2
+    100022: Pillow3
+    100024: Plane001
+    100026: Plane002
+    100028: Plane003
+    100030: Plane004
+    100032: Rpillow
+    100034: //RootNode
+    100036: Sofa Support
+    100038: Under Cushion
+    100040: Wooden Dec
+    400000: 002
+    400002: 1
+    400004: Back Support
+    400006: Cushion
+    400008: Cushion_MeshPart0
+    400010: Cushion_MeshPart1
+    400012: Cushion_MeshPart2
+    400014: LPillow
+    400016: Object001
+    400018: Pillow 1
+    400020: Pillow2
+    400022: Pillow3
+    400024: Plane001
+    400026: Plane002
+    400028: Plane003
+    400030: Plane004
+    400032: Rpillow
+    400034: //RootNode
+    400036: Sofa Support
+    400038: Under Cushion
+    400040: Wooden Dec
+    2300000: 002
+    2300002: 1
+    2300004: Back Support
+    2300006: Cushion_MeshPart0
+    2300008: Cushion_MeshPart1
+    2300010: Cushion_MeshPart2
+    2300012: LPillow
+    2300014: Object001
+    2300016: Plane001
+    2300018: Plane002
+    2300020: Plane003
+    2300022: Plane004
+    2300024: Rpillow
+    2300026: Sofa Support
+    2300028: Under Cushion
+    2300030: Wooden Dec
+    2300032: Cushion
+    3300000: 002
+    3300002: 1
+    3300004: Back Support
+    3300006: Cushion_MeshPart0
+    3300008: Cushion_MeshPart1
+    3300010: Cushion_MeshPart2
+    3300012: LPillow
+    3300014: Object001
+    3300016: Plane001
+    3300018: Plane002
+    3300020: Plane003
+    3300022: Plane004
+    3300024: Rpillow
+    3300026: Sofa Support
+    3300028: Under Cushion
+    3300030: Wooden Dec
+    3300032: Cushion
+    4300000: Plane001
+    4300002: Wooden Dec
+    4300004: Under Cushion
+    4300006: LPillow
+    4300008: Cushion_MeshPart0
+    4300010: Cushion_MeshPart1
+    4300012: Cushion_MeshPart2
+    4300014: Back Support
+    4300016: Sofa Support
+    4300018: Plane003
+    4300020: Object001
+    4300022: 1
+    4300024: 002
+    4300026: Plane002
+    4300028: Plane004
+    4300030: Rpillow
+    4300032: Cushion
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
